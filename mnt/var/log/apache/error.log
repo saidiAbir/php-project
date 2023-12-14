@@ -1,0 +1,588 @@
+[Fri Sep 22 10:05:40 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 22 10:05:40 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 22 10:05:40 2023] [notice] Parent: Created child process 4880
+[Fri Sep 22 10:05:40 2023] [notice] Child 4880: Child process is running
+[Fri Sep 22 10:05:40 2023] [notice] Child 4880: Acquired the start mutex.
+[Fri Sep 22 10:05:40 2023] [notice] Child 4880: Starting 250 worker threads.
+[Fri Sep 22 10:07:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Sep 22 10:45:45 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 22 10:45:45 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 22 10:45:45 2023] [notice] Parent: Created child process 11984
+[Fri Sep 22 10:45:45 2023] [notice] Child 11984: Child process is running
+[Fri Sep 22 10:45:45 2023] [notice] Child 11984: Acquired the start mutex.
+[Fri Sep 22 10:45:45 2023] [notice] Child 11984: Starting 250 worker threads.
+[Fri Sep 29 09:12:29 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 29 09:12:29 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 29 09:12:29 2023] [notice] Parent: Created child process 2428
+[Fri Sep 29 09:12:29 2023] [notice] Child 2428: Child process is running
+[Fri Sep 29 09:12:29 2023] [notice] Child 2428: Acquired the start mutex.
+[Fri Sep 29 09:12:29 2023] [notice] Child 2428: Starting 250 worker threads.
+[Fri Sep 29 09:12:38 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Sep 29 11:24:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/tp2/ex55.html
+[Fri Sep 29 11:25:07 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/tp2/ex55.html
+[Fri Sep 29 11:27:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/tp2/ex55.html
+[Fri Oct 06 09:27:39 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 06 09:27:39 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 06 09:27:39 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 06 09:27:39 2023] [notice] Parent: Created child process 13904
+[Fri Oct 06 09:27:39 2023] [notice] Child 13904: Child process is running
+[Fri Oct 06 09:27:39 2023] [notice] Child 13904: Acquired the start mutex.
+[Fri Oct 06 09:27:39 2023] [notice] Child 13904: Starting 250 worker threads.
+[Fri Oct 06 09:29:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 06 11:19:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 06 11:19:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/TP_fich/ex2.php
+[Fri Oct 06 11:36:09 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/TP_fich/ex2.php
+[Thu Oct 12 20:25:27 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 12 20:25:27 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 12 20:25:27 2023] [notice] Parent: Created child process 9312
+[Thu Oct 12 20:25:28 2023] [notice] Child 9312: Child process is running
+[Thu Oct 12 20:25:28 2023] [notice] Child 9312: Acquired the start mutex.
+[Thu Oct 12 20:25:28 2023] [notice] Child 9312: Starting 250 worker threads.
+[Thu Oct 12 20:25:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 12 21:08:18 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/TP_fich/ex2.php
+[Fri Oct 13 08:48:43 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 13 08:48:43 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 13 08:48:43 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 13 08:48:43 2023] [notice] Parent: Created child process 2820
+[Fri Oct 13 08:48:43 2023] [notice] Child 2820: Child process is running
+[Fri Oct 13 08:48:43 2023] [notice] Child 2820: Acquired the start mutex.
+[Fri Oct 13 08:48:43 2023] [notice] Child 2820: Starting 250 worker threads.
+[Fri Oct 13 08:48:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 13 11:11:25 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 13 11:11:25 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 13 11:11:25 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 13 11:11:25 2023] [notice] Parent: Created child process 13640
+[Fri Oct 13 11:11:25 2023] [notice] Child 13640: Child process is running
+[Fri Oct 13 11:11:25 2023] [notice] Child 13640: Acquired the start mutex.
+[Fri Oct 13 11:11:25 2023] [notice] Child 13640: Starting 250 worker threads.
+[Wed Oct 18 20:13:16 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 18 20:13:16 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Oct 18 20:13:16 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Oct 18 20:13:16 2023] [notice] Parent: Created child process 3156
+[Wed Oct 18 20:13:16 2023] [notice] Child 3156: Child process is running
+[Wed Oct 18 20:13:16 2023] [notice] Child 3156: Acquired the start mutex.
+[Wed Oct 18 20:13:16 2023] [notice] Child 3156: Starting 250 worker threads.
+[Wed Oct 18 20:13:21 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 19 22:29:07 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 19 22:29:07 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 19 22:29:07 2023] [notice] Parent: Created child process 10808
+[Thu Oct 19 22:29:07 2023] [notice] Child 10808: Child process is running
+[Thu Oct 19 22:29:07 2023] [notice] Child 10808: Acquired the start mutex.
+[Thu Oct 19 22:29:07 2023] [notice] Child 10808: Starting 250 worker threads.
+[Thu Oct 19 22:29:11 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 19 23:38:37 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/TP_fich/ajout_etudiant.php' not found or unable to stat, referer: http://localhost/Abir/TP_fich/donnees.php
+[Thu Oct 19 23:40:42 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/TP_fich/ajout_etudiant.php' not found or unable to stat, referer: http://localhost/Abir/TP_fich/donnees.php
+[Fri Oct 20 08:43:23 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 20 08:43:23 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 20 08:43:23 2023] [notice] Parent: Created child process 12188
+[Fri Oct 20 08:43:23 2023] [notice] Child 12188: Child process is running
+[Fri Oct 20 08:43:23 2023] [notice] Child 12188: Acquired the start mutex.
+[Fri Oct 20 08:43:23 2023] [notice] Child 12188: Starting 250 worker threads.
+[Fri Oct 20 08:44:07 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 20 08:54:40 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 26 21:35:03 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 26 21:35:03 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 26 21:35:03 2023] [notice] Parent: Created child process 1648
+[Thu Oct 26 21:35:03 2023] [notice] Child 1648: Child process is running
+[Thu Oct 26 21:35:03 2023] [notice] Child 1648: Acquired the start mutex.
+[Thu Oct 26 21:35:03 2023] [notice] Child 1648: Starting 250 worker threads.
+[Thu Oct 26 21:35:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 26 23:00:42 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 26 23:00:42 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 26 23:00:42 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 26 23:00:42 2023] [notice] Parent: Created child process 17064
+[Thu Oct 26 23:00:42 2023] [notice] Child 17064: Child process is running
+[Thu Oct 26 23:00:42 2023] [notice] Child 17064: Acquired the start mutex.
+[Thu Oct 26 23:00:42 2023] [notice] Child 17064: Starting 250 worker threads.
+[Thu Oct 26 23:25:08 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 26 23:25:09 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 26 23:25:09 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 26 23:25:09 2023] [notice] Parent: Created child process 2888
+[Thu Oct 26 23:25:09 2023] [notice] Child 2888: Child process is running
+[Thu Oct 26 23:25:09 2023] [notice] Child 2888: Acquired the start mutex.
+[Thu Oct 26 23:25:09 2023] [notice] Child 2888: Starting 250 worker threads.
+[Thu Oct 26 23:25:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/baseD/tp6/moudifierEtudiant.html
+[Fri Oct 27 08:40:19 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 27 08:40:19 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 27 08:40:19 2023] [notice] Parent: Created child process 5964
+[Fri Oct 27 08:40:19 2023] [notice] Child 5964: Child process is running
+[Fri Oct 27 08:40:19 2023] [notice] Child 5964: Acquired the start mutex.
+[Fri Oct 27 08:40:19 2023] [notice] Child 5964: Starting 250 worker threads.
+[Fri Oct 27 08:40:50 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 27 09:02:36 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/tp6/modifierEtud.php' not found or unable to stat, referer: http://localhost/Abir/baseD/tp6/moudifierEtudiant.html
+[Fri Oct 27 09:03:06 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/tp6/modifierEtud.php' not found or unable to stat, referer: http://localhost/Abir/baseD/tp6/moudifierEtudiant.html
+[Fri Oct 27 12:54:04 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 27 12:54:04 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 27 12:54:04 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 27 12:54:04 2023] [notice] Parent: Created child process 8984
+[Fri Oct 27 12:54:04 2023] [notice] Child 8984: Child process is running
+[Fri Oct 27 12:54:04 2023] [notice] Child 8984: Acquired the start mutex.
+[Fri Oct 27 12:54:04 2023] [notice] Child 8984: Starting 250 worker threads.
+[Fri Oct 27 12:54:11 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 27 18:39:14 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 27 18:39:14 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 27 18:39:14 2023] [notice] Parent: Created child process 10932
+[Fri Oct 27 18:39:14 2023] [notice] Child 10932: Child process is running
+[Fri Oct 27 18:39:14 2023] [notice] Child 10932: Acquired the start mutex.
+[Fri Oct 27 18:39:14 2023] [notice] Child 10932: Starting 250 worker threads.
+[Fri Oct 27 18:39:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/baseD/tp6/IndexEtud.php
+[Fri Oct 27 18:41:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/tp6/modifierEtudiant.html, referer: http://localhost/Abir/baseD/tp6/IndexEtud.php
+[Fri Oct 27 21:05:01 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 27 21:05:02 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 27 21:05:02 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 27 21:05:02 2023] [notice] Parent: Created child process 14628
+[Fri Oct 27 21:05:02 2023] [notice] Child 14628: Child process is running
+[Fri Oct 27 21:05:02 2023] [notice] Child 14628: Acquired the start mutex.
+[Fri Oct 27 21:05:02 2023] [notice] Child 14628: Starting 250 worker threads.
+[Fri Oct 27 21:05:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Sun Oct 29 22:08:21 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sun Oct 29 22:08:21 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sun Oct 29 22:08:21 2023] [notice] Parent: Created child process 13148
+[Sun Oct 29 22:08:21 2023] [notice] Child 13148: Child process is running
+[Sun Oct 29 22:08:21 2023] [notice] Child 13148: Acquired the start mutex.
+[Sun Oct 29 22:08:21 2023] [notice] Child 13148: Starting 250 worker threads.
+[Sun Oct 29 22:08:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Oct 30 22:42:31 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 30 22:42:31 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Oct 30 22:42:31 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Oct 30 22:42:31 2023] [notice] Parent: Created child process 14176
+[Mon Oct 30 22:42:31 2023] [notice] Child 14176: Child process is running
+[Mon Oct 30 22:42:31 2023] [notice] Child 14176: Acquired the start mutex.
+[Mon Oct 30 22:42:31 2023] [notice] Child 14176: Starting 250 worker threads.
+[Mon Oct 30 22:42:39 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Oct 31 13:45:05 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Oct 31 13:45:05 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Oct 31 13:45:05 2023] [notice] Parent: Created child process 12756
+[Tue Oct 31 13:45:05 2023] [notice] Child 12756: Child process is running
+[Tue Oct 31 13:45:05 2023] [notice] Child 12756: Acquired the start mutex.
+[Tue Oct 31 13:45:05 2023] [notice] Child 12756: Starting 250 worker threads.
+[Tue Oct 31 13:45:22 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Wed Nov 01 20:30:31 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Nov 01 20:30:31 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Nov 01 20:30:31 2023] [notice] Parent: Created child process 324
+[Wed Nov 01 20:30:31 2023] [notice] Child 324: Child process is running
+[Wed Nov 01 20:30:31 2023] [notice] Child 324: Acquired the start mutex.
+[Wed Nov 01 20:30:31 2023] [notice] Child 324: Starting 250 worker threads.
+[Wed Nov 01 20:44:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Wed Nov 01 20:54:35 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Nov 01 20:54:35 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Nov 01 20:54:35 2023] [notice] Parent: Created child process 12652
+[Wed Nov 01 20:54:35 2023] [notice] Child 12652: Child process is running
+[Wed Nov 01 20:54:35 2023] [notice] Child 12652: Acquired the start mutex.
+[Wed Nov 01 20:54:35 2023] [notice] Child 12652: Starting 250 worker threads.
+[Wed Nov 01 21:06:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 02 21:46:23 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 02 21:46:23 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Nov 02 21:46:23 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Nov 02 21:46:23 2023] [notice] Parent: Created child process 7200
+[Thu Nov 02 21:46:23 2023] [notice] Child 7200: Child process is running
+[Thu Nov 02 21:46:23 2023] [notice] Child 7200: Acquired the start mutex.
+[Thu Nov 02 21:46:23 2023] [notice] Child 7200: Starting 250 worker threads.
+[Thu Nov 02 21:46:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 02 22:00:26 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Nov 02 22:00:26 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Nov 02 22:00:26 2023] [notice] Parent: Created child process 13348
+[Thu Nov 02 22:00:26 2023] [notice] Child 13348: Child process is running
+[Thu Nov 02 22:00:26 2023] [notice] Child 13348: Acquired the start mutex.
+[Thu Nov 02 22:00:26 2023] [notice] Child 13348: Starting 250 worker threads.
+[Thu Nov 02 22:01:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 02 22:27:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:27:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:27:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:27:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:27:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:02 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/tp6/EmpruntLivre.php' not found or unable to stat, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/images, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:28:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 22:30:47 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/tp6/Emprunt.php' not found or unable to stat, referer: http://localhost/Abir/baseD/tp6/EmpruntLivre.php
+[Thu Nov 02 23:20:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 23:20:15 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/tp6/retourLivre.html, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 23:20:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 23:37:46 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/style.css, referer: http://localhost/Abir/baseD/tp6/IndexEmpr.html
+[Thu Nov 02 23:52:21 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/tp_PDO/inscription.html, referer: http://localhost/Abir/baseD/tp_PDO/
+[Thu Nov 02 23:55:21 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/tp_PDO/inscription.html, referer: http://localhost/Abir/baseD/tp_PDO/
+[Thu Nov 02 23:57:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/TP_PDO/inscription.html, referer: http://localhost/Abir/baseD/TP_PDO/
+[Thu Nov 02 23:58:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/baseD/
+[Thu Nov 02 23:58:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 02 23:59:01 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/TP_PDO/inscription.html, referer: http://localhost/Abir/baseD/TP_PDO/
+[Fri Nov 03 00:00:22 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Nov 03 00:00:22 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Nov 03 00:00:22 2023] [notice] Parent: Created child process 14540
+[Fri Nov 03 00:00:22 2023] [notice] Child 14540: Child process is running
+[Fri Nov 03 00:00:22 2023] [notice] Child 14540: Acquired the start mutex.
+[Fri Nov 03 00:00:22 2023] [notice] Child 14540: Starting 250 worker threads.
+[Fri Nov 03 00:00:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/baseD/TP_PDO/inscription.html
+[Fri Nov 03 00:00:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Nov 03 00:01:57 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/TP_PDO/inscription.html, referer: http://localhost/Abir/baseD/TP_PDO/
+[Fri Nov 03 00:13:19 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP_PDO/modification.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP_PDO/modif.php?id=1
+[Fri Nov 03 08:45:04 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 03 08:45:04 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Nov 03 08:45:04 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Nov 03 08:45:04 2023] [notice] Parent: Created child process 2236
+[Fri Nov 03 08:45:05 2023] [notice] Child 2236: Child process is running
+[Fri Nov 03 08:45:05 2023] [notice] Child 2236: Acquired the start mutex.
+[Fri Nov 03 08:45:05 2023] [notice] Child 2236: Starting 250 worker threads.
+[Fri Nov 03 08:45:15 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Nov 03 10:06:53 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/nouveauEtudiant.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/ajoutClient.php
+[Fri Nov 03 10:45:07 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/TP2_PDO/ajoutClinet.html, referer: http://localhost/Abir/baseD/TP2_PDO/ajoutClinet.html
+[Fri Nov 03 11:34:37 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/rechercheEtud.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/rechercheVoiture.html
+[Wed Nov 22 20:08:54 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 22 20:08:55 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Nov 22 20:08:55 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Wed Nov 22 20:08:55 2023] [notice] Parent: Created child process 14688
+[Wed Nov 22 20:08:55 2023] [notice] Child 14688: Child process is running
+[Wed Nov 22 20:08:55 2023] [notice] Child 14688: Acquired the start mutex.
+[Wed Nov 22 20:08:55 2023] [notice] Child 14688: Starting 250 worker threads.
+[Wed Nov 22 20:09:05 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Wed Nov 22 20:14:32 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/listClient.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/listeClients.php
+[Wed Nov 22 20:31:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/Abir/baseD/TP2_PDO/rechercheVoiture.html
+[Wed Nov 22 20:31:48 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/rechercheVoiture.html
+[Wed Nov 22 20:32:22 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/rechercheVoi_action.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/rechercheVoiture.html
+[Thu Nov 23 21:45:36 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Nov 23 21:45:36 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Nov 23 21:45:36 2023] [notice] Parent: Created child process 5612
+[Thu Nov 23 21:45:36 2023] [notice] Child 5612: Child process is running
+[Thu Nov 23 21:45:36 2023] [notice] Child 5612: Acquired the start mutex.
+[Thu Nov 23 21:45:36 2023] [notice] Child 5612: Starting 250 worker threads.
+[Thu Nov 23 21:45:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 23 22:16:18 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/listClient.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/listeClients.php
+[Thu Nov 23 22:33:03 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/TP2_PDO/rechercheVoiture_action.php' not found or unable to stat, referer: http://localhost/Abir/baseD/TP2_PDO/rechercheVoiture.html
+[Fri Nov 24 08:49:11 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 24 08:49:12 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Nov 24 08:49:12 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Nov 24 08:49:12 2023] [notice] Parent: Created child process 14424
+[Fri Nov 24 08:49:12 2023] [notice] Child 14424: Child process is running
+[Fri Nov 24 08:49:12 2023] [notice] Child 14424: Acquired the start mutex.
+[Fri Nov 24 08:49:12 2023] [notice] Child 14424: Starting 250 worker threads.
+[Fri Nov 24 09:11:14 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Nov 24 09:20:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Nov 30 21:24:23 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Nov 30 21:24:23 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Nov 30 21:24:23 2023] [notice] Parent: Created child process 17252
+[Thu Nov 30 21:24:23 2023] [notice] Child 17252: Child process is running
+[Thu Nov 30 21:24:23 2023] [notice] Child 17252: Acquired the start mutex.
+[Thu Nov 30 21:24:23 2023] [notice] Child 17252: Starting 250 worker threads.
+[Thu Nov 30 21:24:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Dec 01 08:50:51 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Dec 01 08:50:51 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Dec 01 08:50:51 2023] [notice] Parent: Created child process 10740
+[Fri Dec 01 08:50:51 2023] [notice] Child 10740: Child process is running
+[Fri Dec 01 08:50:51 2023] [notice] Child 10740: Acquired the start mutex.
+[Fri Dec 01 08:50:51 2023] [notice] Child 10740: Starting 250 worker threads.
+[Fri Dec 01 09:08:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Sun Dec 03 17:35:06 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 03 17:35:06 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sun Dec 03 17:35:06 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sun Dec 03 17:35:06 2023] [notice] Parent: Created child process 9076
+[Sun Dec 03 17:35:07 2023] [notice] Child 9076: Child process is running
+[Sun Dec 03 17:35:07 2023] [notice] Child 9076: Acquired the start mutex.
+[Sun Dec 03 17:35:07 2023] [notice] Child 9076: Starting 250 worker threads.
+[Sun Dec 03 17:35:11 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Dec 07 22:24:15 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 07 22:24:15 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Dec 07 22:24:15 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Dec 07 22:24:15 2023] [notice] Parent: Created child process 20224
+[Thu Dec 07 22:24:15 2023] [notice] Child 20224: Child process is running
+[Thu Dec 07 22:24:15 2023] [notice] Child 20224: Acquired the start mutex.
+[Thu Dec 07 22:24:15 2023] [notice] Child 20224: Starting 250 worker threads.
+[Thu Dec 07 22:24:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Dec 08 10:48:52 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 08 10:48:52 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Dec 08 10:48:52 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Dec 08 10:48:52 2023] [notice] Parent: Created child process 20048
+[Fri Dec 08 10:48:52 2023] [notice] Child 20048: Child process is running
+[Fri Dec 08 10:48:52 2023] [notice] Child 20048: Acquired the start mutex.
+[Fri Dec 08 10:48:52 2023] [notice] Child 20048: Starting 250 worker threads.
+[Fri Dec 08 10:49:02 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Sat Dec 09 11:44:23 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 09 11:44:23 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 11:44:23 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 11:44:23 2023] [notice] Parent: Created child process 4596
+[Sat Dec 09 11:44:23 2023] [notice] Child 4596: Child process is running
+[Sat Dec 09 11:44:23 2023] [notice] Child 4596: Acquired the start mutex.
+[Sat Dec 09 11:44:23 2023] [notice] Child 4596: Starting 250 worker threads.
+[Sat Dec 09 11:44:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Sat Dec 09 11:48:49 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 11:48:49 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 11:48:49 2023] [notice] Parent: Created child process 13980
+[Sat Dec 09 11:48:49 2023] [notice] Child 13980: Child process is running
+[Sat Dec 09 11:48:49 2023] [notice] Child 13980: Acquired the start mutex.
+[Sat Dec 09 11:48:49 2023] [notice] Child 13980: Starting 250 worker threads.
+[Sat Dec 09 11:49:27 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 09 11:49:27 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 11:49:27 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 11:49:27 2023] [notice] Parent: Created child process 12400
+[Sat Dec 09 11:49:27 2023] [notice] Child 12400: Child process is running
+[Sat Dec 09 11:49:27 2023] [notice] Child 12400: Acquired the start mutex.
+[Sat Dec 09 11:49:27 2023] [notice] Child 12400: Starting 250 worker threads.
+[Sat Dec 09 11:49:57 2023] [notice] Parent: child process exited with status 1 -- Restarting.
+[Sat Dec 09 11:49:57 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 11:49:57 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 11:49:57 2023] [notice] Parent: Created child process 2472
+[Sat Dec 09 11:49:57 2023] [notice] Child 2472: Child process is running
+[Sat Dec 09 11:49:57 2023] [notice] Child 2472: Acquired the start mutex.
+[Sat Dec 09 11:49:57 2023] [notice] Child 2472: Starting 250 worker threads.
+[Sat Dec 09 11:50:03 2023] [notice] Parent: child process exited with status 1 -- Restarting.
+[Sat Dec 09 11:50:03 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 11:50:03 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 11:50:03 2023] [notice] Parent: Created child process 8956
+[Sat Dec 09 11:50:03 2023] [notice] Child 8956: Child process is running
+[Sat Dec 09 11:50:03 2023] [notice] Child 8956: Acquired the start mutex.
+[Sat Dec 09 11:50:03 2023] [notice] Child 8956: Starting 250 worker threads.
+[Sat Dec 09 20:07:43 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 20:07:43 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 20:07:43 2023] [notice] Parent: Created child process 7552
+[Sat Dec 09 20:07:43 2023] [notice] Child 7552: Child process is running
+[Sat Dec 09 20:07:43 2023] [notice] Child 7552: Acquired the start mutex.
+[Sat Dec 09 20:07:43 2023] [notice] Child 7552: Starting 250 worker threads.
+[Sat Dec 09 20:07:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Sat Dec 09 21:31:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 21:33:20 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 21:35:01 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 21:42:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 22:00:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 22:16:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/ajout.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/
+[Sat Dec 09 22:21:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/Style.css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 22:25:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/controllers, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 22:26:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/Style.css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 23:17:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/Style.css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 23:24:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/Style.css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 23:27:13 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/Style.css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/ajout.html
+[Sat Dec 09 23:28:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Sat Dec 09 23:31:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Sun Dec 10 22:43:13 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 10 22:43:13 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sun Dec 10 22:43:13 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sun Dec 10 22:43:13 2023] [notice] Parent: Created child process 3016
+[Sun Dec 10 22:43:13 2023] [notice] Child 3016: Child process is running
+[Sun Dec 10 22:43:13 2023] [notice] Child 3016: Acquired the start mutex.
+[Sun Dec 10 22:43:13 2023] [notice] Child 3016: Starting 250 worker threads.
+[Sun Dec 10 22:43:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Dec 11 00:42:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:08:17 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 11 10:08:17 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Dec 11 10:08:17 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Dec 11 10:08:17 2023] [notice] Parent: Created child process 10596
+[Mon Dec 11 10:08:17 2023] [notice] Child 10596: Child process is running
+[Mon Dec 11 10:08:17 2023] [notice] Child 10596: Acquired the start mutex.
+[Mon Dec 11 10:08:17 2023] [notice] Child 10596: Starting 250 worker threads.
+[Mon Dec 11 10:08:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Dec 11 10:14:55 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/index.html
+[Mon Dec 11 10:15:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studi
+[Mon Dec 11 10:15:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 10:15:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 10:27:00 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:34:52 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:35:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:36:35 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:36:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:40:20 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:42:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:46:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:46:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:49:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:51:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:51:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 10:54:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:23:07 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:24:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:24:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:25:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:25:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:26:11 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:26:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:27:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:27:40 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:29:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:31:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 11:31:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 12:04:03 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:22:32 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 12:22:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:25:10 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 12:25:20 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:43:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:43:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:43:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 12:43:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 13:51:42 2023] [error] [client 127.0.0.1] script 'W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/modif.php.php' not found or unable to stat, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/modifier.php
+[Mon Dec 11 14:28:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 15:03:18 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 15:04:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:05:06 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:08:01 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:08:01 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:08:06 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:08:06 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:10:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:10:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:13:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:13:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:13:33 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:13:33 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:14:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:14:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:14:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:14:53 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:15:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 16:16:20 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:28:18 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:31:22 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:31:22 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:31:32 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:31:32 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:31:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:31:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:33:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:33:44 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:33:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:33:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:41:29 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:41:29 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:43:09 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:43:09 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 16:52:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Mon Dec 11 16:52:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Mon Dec 11 23:26:46 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Dec 11 23:26:46 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Dec 11 23:26:46 2023] [notice] Parent: Created child process 2016
+[Mon Dec 11 23:26:46 2023] [notice] Child 2016: Child process is running
+[Mon Dec 11 23:26:46 2023] [notice] Child 2016: Acquired the start mutex.
+[Mon Dec 11 23:26:46 2023] [notice] Child 2016: Starting 250 worker threads.
+[Mon Dec 11 23:26:56 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Mon Dec 11 23:39:40 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Mon Dec 11 23:40:47 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 00:46:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 00:47:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 00:48:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 00:49:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 00:53:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 01:07:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/rechercheCo.html
+[Tue Dec 12 01:07:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 01:08:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 01:08:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/
+[Tue Dec 12 01:08:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/
+[Tue Dec 12 01:09:39 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:09:39 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:09:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/rechercheCo.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:24 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:25 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:11:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 01:11:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 01:30:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/listC.php
+[Tue Dec 12 01:34:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/listC.php
+[Tue Dec 12 01:36:29 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/listC.php
+[Tue Dec 12 01:36:30 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/listC.php
+[Tue Dec 12 02:12:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 02:12:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:12:50 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajouter.html
+[Tue Dec 12 02:12:50 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:13:06 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 02:13:06 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:14:22 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 02:14:22 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:14:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 02:14:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:14:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajouter.html
+[Tue Dec 12 02:14:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 02:14:55 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 02:14:55 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:22:07 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 12:22:07 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 12 12:22:07 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 12 12:22:07 2023] [notice] Parent: Created child process 15104
+[Tue Dec 12 12:22:07 2023] [notice] Child 15104: Child process is running
+[Tue Dec 12 12:22:07 2023] [notice] Child 15104: Acquired the start mutex.
+[Tue Dec 12 12:22:07 2023] [notice] Child 15104: Starting 250 worker threads.
+[Tue Dec 12 12:24:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 12 12:24:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:25:07 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:29:18 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:33:20 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:33:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:33:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:42 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:35:43 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:39:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 12:39:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/index_salle.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/login.php
+[Tue Dec 12 12:39:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:39:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:40:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:40:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:41:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajouter.html
+[Tue Dec 12 12:41:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:41:36 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:41:36 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:44:19 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/listC.php
+[Tue Dec 12 12:44:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/rechercheCo.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:46:05 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/rechercheCo.html, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:46:12 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:46:12 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 12:46:12 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 12:46:12 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 13:32:32 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 13:53:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 13:54:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 13:54:09 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 13:54:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/afdmin-side
+[Tue Dec 12 13:54:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 13:54:56 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 13:54:56 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 13:55:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 14:00:13 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 14:00:35 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Tue Dec 12 14:02:54 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 14:03:00 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 14:05:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/log.css
+[Tue Dec 12 14:06:13 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/admin-side/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/admin-side/ajout.html
+[Tue Dec 12 14:06:13 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/Abir/baseD/templatemo_548_training_studio/user-side/css/css, referer: http://localhost/Abir/baseD/templatemo_548_training_studio/user-side/css/ajout.css
+[Thu Dec 14 15:12:33 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 14 15:12:33 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Dec 14 15:12:33 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Dec 14 15:12:33 2023] [notice] Parent: Created child process 12612
+[Thu Dec 14 15:12:34 2023] [notice] Child 12612: Child process is running
+[Thu Dec 14 15:12:34 2023] [notice] Child 12612: Acquired the start mutex.
+[Thu Dec 14 15:12:34 2023] [notice] Child 12612: Starting 250 worker threads.
